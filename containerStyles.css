@@ -54,7 +54,7 @@ h1{
 .buttonTop{
     position: absolute;
     margin-left:40px;
-    margin-top:100px;
+    margin-top:150px;
     width: 150px;
     height: 100px;
     border-style: ridge;
@@ -67,7 +67,7 @@ h1{
 .buttonMiddleTop{
     position: absolute;
     margin-left:40px;
-    margin-top:250px;
+    margin-top:300px;
     width: 150px;
     height: 100px;
     border-style: ridge;
@@ -80,7 +80,7 @@ h1{
 .buttonMiddleBottom{
     position: absolute;
     margin-left:40px;
-    margin-top:400px;
+    margin-top:450px;
     width: 150px;
     height: 100px;
     border-style: ridge;
@@ -90,29 +90,4 @@ h1{
     background-color: gold;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
-.buttonSubmit{
-    position: absolute;
-    margin-left:40px;
-    margin-top:550px;
-    width: 150px;
-    height: 100px;
-    border-style: ridge;
-    border-color: #5b342e;
-    border-width: 7px;
-    font-size: 30px; 
-    background-color: gold;
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-}
-.buttonReset{
-    position: absolute;
-    margin-left:250px;
-    margin-top:550px;
-    width: 150px;
-    height: 100px;
-    border-style: ridge;
-    border-color: #5b342e;
-    border-width: 7px;
-    font-size: 30px; 
-    background-color: gold;
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-}
+
